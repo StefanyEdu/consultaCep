@@ -19,7 +19,7 @@ public class CepService  implements CepRepository{
 		return null;
 	}
 	
-
+/*
 	@Override
 	public ConsultaCep findByRua(String rua) {
 		// TODO Auto-generated method stub
@@ -37,7 +37,7 @@ public class CepService  implements CepRepository{
 		// TODO Auto-generated method stub
 		return null;
 	}
-
+*/
 // instancia do id 	
 	@Override
 	public ConsultaCep findById(long id) {
