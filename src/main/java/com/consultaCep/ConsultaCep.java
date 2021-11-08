@@ -17,7 +17,7 @@ public class ConsultaCep {
 	
 	protected ConsultaCep() {}
 
-	public ConsultaCep( String localidade, String bairro, String logradouro, String cep) {
+	public ConsultaCep( String cep, String logradouro, String localidade, String bairro ) {
 		
 		
 		this.localidade = localidade;
